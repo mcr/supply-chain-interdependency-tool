@@ -38,7 +38,7 @@ Install [wait-on](https://www.npmjs.com/package/wait-on) with `npm install wait-
 
 A dependency when building the windows version on Mac and Linux. To install on Mac, presuming [Homebrew](https://brew.sh/) is installed, run `brew install wine`. For Ubuntu Linux, run `sudo apt install wine-stable`. Check wine documentation and versions here: [wine site](https://www.davidbaumgold.com/tutorials/wine-mac/).
 
-#### fakeboot
+#### fakeroot
 
 This will need to be installed when creating the Linux Debian installer on the Mac. To install on Mac, presuming [Homebrew](https://brew.sh/) is installed, run `brew install fakeroot`. For more information, visit the documentation for [electron-installer-debian](https://www.npmjs.com/package/electron-installer-debian).
 
